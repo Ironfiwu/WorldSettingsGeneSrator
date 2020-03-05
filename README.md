@@ -1,1 +1,2 @@
 # WorldSettingsGeneSrator
+一个世界设定的生成器，想做游戏或者想写小说的可以看看吼
